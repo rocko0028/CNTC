@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 27.0.1//EN
+N:Y;Rosa;;;
+FN:Rosa Y
+TEL;type=WORK;type=VOICE;type=pref:(956) 000-0000
+item1.ADR;type=WORK;type=pref:;;Test;A;AA;9999;United States
+item1.X-ABADR:us
+item2.URL;type=pref:https://rosaybarracfp.canva.link/
+item2.X-ABLabel:Digital Business Card
+URL;type=WORK:test
+END:VCARD
